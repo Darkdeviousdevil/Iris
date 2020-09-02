@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Overworld",
+    "id": "overworld",
+    "repo": "VolmitSoftware/iris-overworld"
+  },
+  {
+    "name": "Vanilla",
+    "id": "vanilla",
+    "repo": "VolmitSoftware/iris-vanilla"
+  },
+]
