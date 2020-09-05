@@ -1,5 +1,6 @@
 [
-  "overworld VolmitSoftware/iris-overworld",
-  "vanilla VolmitSoftware/iris-vanilla",
-  "flat VolmitSoftware/iris-flat"
+  "overworld IrisDimensions/overworld",
+  "vanilla IrisDimensions/vanilla",
+  "flat IrisDimensions/flat",
+  "redstone IrisDimensions/redstone"
 ]
