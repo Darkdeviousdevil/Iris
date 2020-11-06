@@ -28,6 +28,7 @@ If applicable, add screenshots or video recordings to help explain your problem.
  - Iris Version:
  - Server Platform and Version [eg: PaperSpigot 1.16.3 #240]:
  - Operating System (if applicable):
+ - Server Logs:
 
 **Additional context**
 Add any other context about the problem here, server timings reports, Iris dump information, complete console log etc. Please do not make Pastebin dumps or screenshot expire.
